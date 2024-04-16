@@ -1,0 +1,12 @@
+name: stockapi
+title: stockAPI
+username: jonas.dealmeida@nih.gov
+account: jonas.dealmeida@nih.gov
+server: appshare-dev.cancer.gov
+hostUrl: https://appshare-dev.cancer.gov/__api__
+appId: 79
+bundleId: 397
+url: https://appshare-dev.cancer.gov/content/8a6a5e79-6203-4ca8-bcb1-46fef32b9be4/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

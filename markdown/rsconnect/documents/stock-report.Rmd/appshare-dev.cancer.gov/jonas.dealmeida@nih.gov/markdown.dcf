@@ -1,0 +1,12 @@
+name: markdown
+title: markdown
+username: jonas.dealmeida@nih.gov
+account: jonas.dealmeida@nih.gov
+server: appshare-dev.cancer.gov
+hostUrl: https://appshare-dev.cancer.gov/__api__
+appId: 81
+bundleId: 400
+url: https://appshare-dev.cancer.gov/content/98ca6dd6-6439-4b6e-bb4f-cdc8866ec138/
+version: 1
+asMultiple: TRUE
+asStatic: FALSE

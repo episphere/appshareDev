@@ -1,0 +1,12 @@
+name: portfolio
+title: portfolio
+username: jonas.dealmeida@nih.gov
+account: jonas.dealmeida@nih.gov
+server: appshare-dev.cancer.gov
+hostUrl: https://appshare-dev.cancer.gov/__api__
+appId: 80
+bundleId: 398
+url: https://appshare-dev.cancer.gov/content/b68dde78-2eba-4f67-af55-def276f7fb33/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
