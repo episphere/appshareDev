@@ -1,0 +1,14 @@
+name: demo
+title: demo
+username: jonas.dealmeida@nih.gov
+account: jonas.dealmeida@nih.gov
+server: appshare-dev.cancer.gov
+hostUrl: https://appshare-dev.cancer.gov/__api__
+appId: 77
+bundleId: 395
+url: https://appshare-dev.cancer.gov/content/a0b4a255-5448-43d8-b3e6-e572f9412e2d/
+version: 1
+quarto_version: 1.4.551
+quarto_engines: markdown
+asMultiple: FALSE
+asStatic: FALSE
